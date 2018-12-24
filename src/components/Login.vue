@@ -1,7 +1,6 @@
+
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+  <div class="log">这是登录组件</div>
 </template>
 
 <script>
